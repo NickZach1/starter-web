@@ -12,6 +12,7 @@ Training
 
 ## How to contribute
 
+Please fork this repository
 ## Copyright
 
 2020 Git Training
