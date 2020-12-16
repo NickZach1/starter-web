@@ -5,7 +5,7 @@ Adding one line for rebasing.
 
 ## Introduction
 
-Welcome to the Git Training
+Welcome to the Git Training for 2020 Students
 
 ## Purpose
 
